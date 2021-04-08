@@ -1,0 +1,16 @@
+C:\Users\fareed\Desktop\Bank App\bin\Debug\net5.0\Bank App.exe
+C:\Users\fareed\Desktop\Bank App\bin\Debug\net5.0\Bank App.deps.json
+C:\Users\fareed\Desktop\Bank App\bin\Debug\net5.0\Bank App.runtimeconfig.json
+C:\Users\fareed\Desktop\Bank App\bin\Debug\net5.0\Bank App.runtimeconfig.dev.json
+C:\Users\fareed\Desktop\Bank App\bin\Debug\net5.0\Bank App.dll
+C:\Users\fareed\Desktop\Bank App\bin\Debug\net5.0\ref\Bank App.dll
+C:\Users\fareed\Desktop\Bank App\bin\Debug\net5.0\Bank App.pdb
+C:\Users\fareed\Desktop\Bank App\obj\Debug\net5.0\Bank App.csprojAssemblyReference.cache
+C:\Users\fareed\Desktop\Bank App\obj\Debug\net5.0\Bank App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fareed\Desktop\Bank App\obj\Debug\net5.0\Bank App.AssemblyInfoInputs.cache
+C:\Users\fareed\Desktop\Bank App\obj\Debug\net5.0\Bank App.AssemblyInfo.cs
+C:\Users\fareed\Desktop\Bank App\obj\Debug\net5.0\Bank App.csproj.CoreCompileInputs.cache
+C:\Users\fareed\Desktop\Bank App\obj\Debug\net5.0\Bank App.dll
+C:\Users\fareed\Desktop\Bank App\obj\Debug\net5.0\ref\Bank App.dll
+C:\Users\fareed\Desktop\Bank App\obj\Debug\net5.0\Bank App.pdb
+C:\Users\fareed\Desktop\Bank App\obj\Debug\net5.0\Bank App.genruntimeconfig.cache
